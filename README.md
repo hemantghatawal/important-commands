@@ -1,4 +1,4 @@
 # important-commands
 
-## Creating Github Repo using gh cli
+### Creates Github Repo using gh cli
 gh repo create <repository-name> --public
